@@ -1,0 +1,3 @@
+BERT_huggingface/.checkpoints/
+BERT_huggingface/__pycache__/
+BERT_huggingface/models/
